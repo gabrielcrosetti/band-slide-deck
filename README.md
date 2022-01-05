@@ -13,7 +13,5 @@ Fully responsive javascript project that a includes a deck of cards on some of m
 
 [Live Site](https://gabrielcrosetti.github.io/band-slide-deck/)
 
-## Site Picture
 
-![Uploading Screen Shot 2022-01-05 at 11.43.06 AM.png…]()
 
