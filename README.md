@@ -10,3 +10,5 @@ Fully responsive javascript project that a includes a deck of cards on some of m
 * Javascript 
 
 ## Deployed Link 
+
+[Live Site](https://gabrielcrosetti.github.io/band-slide-deck/)
